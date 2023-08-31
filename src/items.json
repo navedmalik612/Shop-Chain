@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Galaxy z Flip",
+      "category": "mobile",
+      "image": "https://gateway.pinata.cloud/ipfs/QmdUmyXZF9iA49NM4nyHAGScd6EbZYzHfnZJB8ZCW37kBQ",
+      "price": "1",
+      "rating": 4,
+      "stock": 10,
+      "description":" Featuring a compact design that unfolds into a full-sized touchscreen display. It combines cutting-edge technology with a unique flip form factor, offering users a blend of style and innovation."
+    },
+    {
+      "id": 2,
+      "name": "Moto g14",
+      "category": "mobile",
+      "image": "https://gateway.pinata.cloud/ipfs/QmRtTBqGC7y68LmE7eAhNfcEJVk8t7mHUmdk68SFqN9HQw",
+      "price": "2",
+      "rating": 5,
+      "stock": 6,
+      "description":"Balanced mix of performance and affordability. With its capable hardware and clean Android experience, it offers a solid option for users seeking a reliable smartphone without breaking the bank."
+    },
+    {
+      "id": 3,
+      "name": "Redmi Note 12",
+      "category": "mobile",
+      "image": "https://gateway.pinata.cloud/ipfs/QmWu5hMdeUk9ayk4fzURnxz5yCSkFR3dEvEdseLBJYuDgX",
+      "price": "1.25",
+      "rating": 2,
+      "stock": 24,
+      "description":"Offers a mix of essential features, decent performance, and a large display, catering to users looking for value-driven options."
+    },
+    {
+      "id": 4,
+      "name": "Recliner",
+      "category": "furniture",
+      "image": "https://gateway.pinata.cloud/ipfs/QmSgCUsREsgrH6x7wc1kF5wXVTsxATwoEiyc5oUC3rpF6K",
+      "price": "0.125",
+      "rating": 5,
+      "description":"Experience ultimate comfort with our luxurious recliners. designed for relaxation, our recliners feature plush cushioning, adjustable positions, and stylish aesthetics, making them a perfect addition to any living space.",
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Book shelf",
+      "category": "furniture",
+      "image": "https://gateway.pinata.cloud/ipfs/QmdX8V9rqKXv4E5DPpWa7q1wfpj9dXsqj1tD6heBxoWB4f",
+      "price": "0.02",
+      "rating": 4,
+      "stock": 12,
+      "description":"Organize your books in style with our versatile book shelves. Crafted with high-quality materials, our shelves offer ample storage while enhancing the visual appeal of your room. Choose from a range of designs to complement your decor."
+    },
+    {
+      "id": 6,
+      "name": "Dining Table",
+      "category": "furniture",
+      "image": "https://gateway.pinata.cloud/ipfs/QmdGosWebisx3BqyCT9CzYFSTjf5pPk2shZMXUDpwwhjtU",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 17,
+      "description":"Elevate your dining area with our elegant dining tables. Built to host memorable gatherings, our tables blend functionality with sophistication. Discover a variety of sizes and finishes that suit your taste and accommodate your loved ones comfortably"
+    },
+    {
+      "id": 7,
+      "name": "Sony 4K TV",
+      "category": "appliances",
+      "image": "https://gateway.pinata.cloud/ipfs/QmZmR4Hh5QHnrakCfhhsbLZg6Uf4DSy1KLnvw2JcX3zE7M",
+      "price": "2.05",
+      "rating": 4,
+      "stock": 15,
+      "description":"Immerse yourself in stunning visuals with our Sony 4K TVs. Experience lifelike picture quality, vibrant colors, and smart features that redefine entertainment. Elevate your viewing experience to new heights with cutting-edge technology and sleek designs"
+    },
+    {
+      "id": 8,
+      "name": "Haier AC",
+      "category": "appliances",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmbbwic7G3wC2GMvV3e3QgvKXPjkQS8NNYhujGFSa71zZ2",
+      "price": "0.75",
+      "rating": 4,
+      "stock": 8,
+      "description":"Stay cool and comfortable with Haier ACs. Our energy-efficient air conditioners offer powerful cooling performance while keeping your electricity bills in check. Experience whisper-quiet operation and customizable settings for the ideal indoor climate."
+    },
+    {
+      "id": 9,
+      "name": "LG Refrigerator",
+      "category": "appliances",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmbe9NrHHpfESHHwLEpCz4EwaBHk5xStdDKuXvQuzbkVuD",
+      "price": "0.95",
+      "rating": 3,
+      "stock": 20,
+      "description":"With smart storage solutions and modern aesthetics, LG refrigerators transform your kitchen into a functional and stylish space."
+    },
+    {
+      "id": 10,
+      "name": "Muscleblaze Protein",
+      "category": "healthcare",
+      "image": "https://gateway.pinata.cloud/ipfs/QmZwWQBRyPQRaAz5hevto5DzimcyYXutot8GEKq3W1saTG",
+      "price": "0.015",
+      "rating": 3,
+      "stock": 21,
+      "description":"Elevate your fitness journey with MuscleBlaze Protein. Packed with essential nutrients, our protein supplements aid muscle recovery and growth. Fuel your workouts with premium quality protein that's designed to help you achieve your fitness goals."
+    },
+    {
+      "id": 11,
+      "name": "Ashwagandha",
+      "category": "healthcare",
+      "image": "https://gateway.pinata.cloud/ipfs/QmUL5ZmtvMGRR1LjbKkEXiNGRRy5sRfcaXktz2yi2S11iU",
+      "price": "0.035",
+      "rating": 3,
+      "stock": 10,
+      "description":"Discover the power of Ashwagandha, a revered herb known for its adaptogenic properties. Our Ashwagandha supplements offer natural stress relief and promote overall well-being. Experience the ancient wisdom of Ayurveda in a convenient and potent form."
+    },
+    {
+      "id": 12,
+      "name": "Spirulina",
+      "category": "healthcare",
+      "image": "https://gateway.pinata.cloud/ipfs/QmbMaJ8SbGgWkeF4TWNbJaPZSQJrZaJj3awhqqtXzqxLhX",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12,
+      "description":"Nourish your body with Spirulina, a nutrient-rich superfood. Packed with vitamins, minerals, and antioxidants, our Spirulina supplements support energy, immunity, and vitality. Incorporate this natural powerhouse into your daily routine for a healthier lifestyle."
+    },
+    {
+      "id": 13,
+      "name": "Printed T-Shirt",
+      "category": "fashion",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmbh5ckYsttvn73bUqW456wvhWZT5JdRYwRH6VqpzGZr4L",
+      "price": "0.001",
+      "rating": 3,
+      "stock": 90,
+      "description":"Express your style with our printed t-shirts. From quirky designs to artistic patterns, our t-shirts let you stand out. Crafted from comfortable fabrics, they add a touch of personality to your casual wardrobe."
+    },
+    {
+      "id": 14,
+      "name": "Blazer",
+      "category": "fashion",
+      "image": "https://gateway.pinata.cloud/ipfs/QmebRprMvjuMp4yGZMoUCwrh6b3y6sNW1kPBcuap2QmZJ3",
+      "price": "0.115",
+      "rating": 3,
+      "stock": 12,
+      "description":"Elevate your look with our sophisticated blazers. Whether for formal occasions or a sharp ensemble, our blazers offer impeccable tailoring and versatile styling. Redefine elegance and make a lasting impression."
+    },
+    {
+      "id": 15,
+      "name": "Track Pants",
+      "category": "fashion",
+      "image": "https://gateway.pinata.cloud/ipfs/QmPw5DmWyZCmAPzhioMN6osG7U2cDexVks8VXotDQDPsN1",
+      "price": "0.10",
+      "rating": 3,
+      "stock": 14,
+      "description":"Combine comfort and style with our track pants. Perfect for workouts or lounging, our track pants provide a relaxed fit and modern designs. Experience ease of movement without compromising on fashion."
+    }
+  ]
+}
